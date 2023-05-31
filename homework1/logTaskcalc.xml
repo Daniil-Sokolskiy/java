@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-26T03:16:41</date>
+  <millis>1679786201083</millis>
+  <sequence>0</sequence>
+  <logger>task1</logger>
+  <level>INFO</level>
+  <class>task3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>42.0</message>
+</record>
+</log>
