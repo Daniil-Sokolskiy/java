@@ -1,5 +1,3 @@
-package javaErrorException.HomeWork_003;
-
 public class DataException extends Exception{
     public DataException() {
     }

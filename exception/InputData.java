@@ -1,4 +1,3 @@
-package javaErrorException.HomeWork_003;
 import java.util.Scanner;
 
 public class InputData {

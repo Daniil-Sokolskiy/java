@@ -1,5 +1,3 @@
-package javaErrorException.HomeWork_003;
-
 public class SexException extends Exception {
     public SexException() {
     }
